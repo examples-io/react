@@ -1,2 +1,1 @@
-# react_example
-React example
+# React YouTube Search Example
